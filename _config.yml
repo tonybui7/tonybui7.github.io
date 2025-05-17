@@ -7,17 +7,17 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Tony Bui's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Tony Nguyen Bui
+headline: Mechanical Engineering
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A recent graduate from Stanford University with a bachelor's in Mechanical Engineering. I aspire
+  to be an engineer that can competently tackle the most interesting design challenges of our time
+  with an emphasis on product realization, human-cenetered design, and robust functionality. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
