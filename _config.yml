@@ -15,7 +15,7 @@ title: Tony Bui's Portfolio # This is what shows up in the tab of the browser
 name: Tony Nguyen Bui
 headline: Mechanical Engineering
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  A recent graduate from Stanford University with a bachelor's in Mechanical Engineering. I aspire
+  A graduate from Stanford University with a bachelor's in Mechanical Engineering. I aspire
   to be an engineer that can competently tackle the most interesting design challenges of our time
   with an emphasis on product realization, human-cenetered design, and robust functionality. 
 
@@ -31,9 +31,9 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: tonybui7    # https://www.linkedin.com/in/{your url slug} 
+  github: tonybui7.github.io    # https://github.com/{your url slug} 
+  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -47,27 +47,24 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - Fusion 360 CAM (Autodesk)
+    - Solidworks (Dassault Systèmes)
+    - CATIA 3DX (Dassault Systèmes)
+    - MATLAB (Mathworks)
+    - Ansys Electronics Desktop (Maxwell, Mechanical, Icepak, HFSS, Thermal)
+    - Abaqus (Dassault Systèmes)
+  - category: Prototyping and Fabrication
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
+    - CNC (3-Axis CNC Mill)
+    - Additive 3D Printing (FDM, SLA, Latticing)
+    - Manual Mill
+    - Manual Lathe
     - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - WaterJet
+    - Metal Forming (Sheet Metal, Tube, Oxy-Fuel Welding)
+    - Metal Casting (Die Casting, Sand Casting)
+    - Arduino
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14
