@@ -17,7 +17,13 @@ headline: Mechanical Engineering
 description: >- # dont remove this line. this will ignore all new lines until the next section
   A graduate from Stanford University with a bachelor's in Mechanical Engineering. I aspire
   to be an engineer that can competently tackle the most interesting design challenges of our time
-  with an emphasis on product realization, human-cenetered design, and robust functionality. 
+  with an emphasis on product realization, human-cenetered design, and robust functionality. Having
+  interned for Tesla Motors as a Mechanical Design Engineer in the power electronics team, I had the
+  opportunity to learn a great deal about the trajectory of the automotive industry, work on novel proof
+  of concept technologies, and build upon my engineering design/analysis workflows! Interning for Trucklabs
+  (now ConMet) as a product management/mechanical engineer, I experienced the world of early-stage startups:
+  "wearing multiple hats" with projects spanning inventory/supply chain management, reliability engineering
+  (Root Cause Analysis), pneumatic system design, and automation engineering. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -54,7 +60,7 @@ skills:
     - MATLAB (Mathworks)
     - Ansys Electronics Desktop (Maxwell, Mechanical, Icepak, HFSS, Thermal)
     - Abaqus (Dassault Systèmes)
-  - category: Prototyping and Fabrication
+  - category: Prototyping / Fabrication / DfM
     tools:
     - CNC (3-Axis CNC Mill)
     - Additive 3D Printing (FDM, SLA, Latticing)
@@ -65,11 +71,11 @@ skills:
     - Metal Forming (Sheet Metal, Tube, Oxy-Fuel Welding)
     - Metal Casting (Die Casting, Sand Casting)
     - Arduino
-  - category: Design Standards / Practices
+  - category: Engineering Skills and Practices
     tools:
-    - GD&T ASME Y14
+    - Geometric Dimensioning and Tolerancing (GD&T)
     - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
+    - 
   - category: PCB Design
     tools:
     - Altium Designer
