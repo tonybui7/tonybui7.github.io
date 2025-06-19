@@ -65,20 +65,18 @@ skills:
     - Abaqus (Dassault Systèmes)
   - category: Prototyping / Fabrication / DfM
     tools:
-    - CNC (3-Axis CNC Mill)
+    - 3-Axis CNC
     - Additive 3D Printing (FDM, SLA, Latticing)
-    - Manual Mill
-    - Manual Lathe
+    - Manual Mill, Lathe, Drill Press
     - Laser Cutting
     - WaterJet
-    - Metal Forming (Sheet Metal, Tube, Oxy-Fuel Welding)
-    - Metal Casting (Die Casting, Sand Casting)
+    - Metal Forming (Sheet Metal, Tube Bending, Oxy-Acetylene Welding)
+    - Metal Casting (Sand Casting, Die Casting)
     - Arduino
   - category: Engineering Skills and Practices
     tools:
     - Geometric Dimensioning and Tolerancing (GD&T)
     - ISO fits and tolerances
-    - 
   - category: PCB Design
     tools:
     - Altium Designer
