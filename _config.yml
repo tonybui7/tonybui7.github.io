@@ -16,18 +16,18 @@ name: Tony Nguyen Bui
 headline: Mechanical Engineering
 description: >- # dont remove this line. this will ignore all new lines until the next section
   A fellow grease monkey (aka Mechanical Engineer) with a bachelor's in Mechanical Engineering from Stanford University.
-  
+description: >- # dont remove this line. this will ignore all new lines until the next section
   I love to tackle the most interesting design challenges of our time, well-grounded in physics, math, manufacturing, and
   ethical considerations. My design strategy is informed by the Stanford School of Design, which emphasizes rapid iteration, interdisciplinary
   collaboration, manufacturability/scalability, and a human-centered design.
-
+description: >- # dont remove this line. this will ignore all new lines until the next section
   Throughout my 4 years of undergraduate education, I had the opportunity to intern as a Mechanical Design Engineer for Tesla
   Motors' Power Electronics team, "wear many hats" as a mechanical engineering/product management intern for Trucklabs (now Conmet,
   a trucking tech startup with its flagship, tractor-mounted, aerodynamic product), design an aerodynamic wind deflector for my convertible
   car (2005 Mazda Miata) to reduce cabin turbulence when top-down driving, fabricated pneumatic actuated soft-robotics with infinite degrees
   of freedom, CNC milled a bespoke Aluminum case for my double-edged safety razor, designed and fabricated a low-cost/locally-manufacturable
   tilt-in-space wheelchair for Tanzanians with severe postural disabilities (for Senior Capstone), and many more fun, impactful projects
-
+description: >- # dont remove this line. this will ignore all new lines until the next section
   This is just the beginning! I aim to leverage my education and experience as a stepping-stone to high-impact engineering.
   
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
