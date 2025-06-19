@@ -15,29 +15,34 @@ title: Tony Bui's Portfolio # This is what shows up in the tab of the browser
 name: Tony Nguyen Bui
 headline: Mechanical Engineering
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  A graduate from Stanford University with a bachelor's in Mechanical Engineering. I aspire
-  to be an engineer that can competently tackle the most interesting design challenges of our time
-  with an emphasis on product realization, human-cenetered design, and robust functionality. Having
-  interned for Tesla Motors as a Mechanical Design Engineer in the power electronics team, I had the
-  opportunity to learn a great deal about the trajectory of the automotive industry, work on novel proof
-  of concept technologies, and build upon my engineering design/analysis workflows! Interning for Trucklabs
-  (now ConMet) as a product management/mechanical engineer, I experienced the world of early-stage startups:
-  "wearing multiple hats" with projects spanning inventory/supply chain management, reliability engineering
-  (Root Cause Analysis), pneumatic system design, and automation engineering. 
+  A fellow grease monkey (aka Mechanical Engineer) with a bachelor's in Mechanical Engineering from Stanford University.
+  
+  I love to tackle the most interesting design challenges of our time, well-grounded in physics, math, manufacturing, and
+  ethical considerations. My design strategy is informed by the Stanford School of Design, which emphasizes rapid iteration, interdisciplinary
+  collaboration, manufacturability/scalability, and a human-centered design.
 
+  Throughout my 4 years of undergraduate education, I had the opportunity to intern as a Mechanical Design Engineer for Tesla
+  Motors' Power Electronics team, "wear many hats" as a mechanical engineering/product management intern for Trucklabs (now Conmet,
+  a trucking tech startup with its flagship, tractor-mounted, aerodynamic product), design an aerodynamic wind deflector for my convertible
+  car (2005 Mazda Miata) to reduce cabin turbulence when top-down driving, fabricated pneumatic actuated soft-robotics with infinite degrees
+  of freedom, CNC milled a bespoke Aluminum case for my double-edged safety razor, designed and fabricated a low-cost/locally-manufacturable
+  tilt-in-space wheelchair for Tanzanians with severe postural disabilities (for Senior Capstone), and many more fun, impactful projects
+
+  This is just the beginning! I aim to leverage my education and experience as a stepping-stone to high-impact engineering.
+  
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1KLvCEokXfPf8RlIonTi8eGBogjRsvfwb/view?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: tonybui7    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: tonybui7    # https://www.linkedin.com/in/{tonybui7} 
   github: tonybui7.github.io    # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
@@ -95,7 +100,7 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 
-# Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
+# Active theme (Update this to switch themes). Make sure to keep the indentation the same.
 colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
