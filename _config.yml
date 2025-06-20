@@ -21,7 +21,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   ethical considerations. My engineering strategy is informed by the Stanford School of Design, which emphasizes rapid iteration, interdisciplinary
   collaboration, manufacturability/scalability, and a human-centered design.<br>
   <br>
-  Throughout my 4 years of undergraduate education:''' I had the opportunity to intern as a Mechanical Design Engineer for Tesla
+  Throughout my 4 years of undergraduate education, I've had the opportunity to intern as a Mechanical Design Engineer for Tesla
   Motors' Power Electronics team, "wear many hats" as a mechanical engineering/product management intern for Trucklabs (now Conmet,
   a trucking tech startup with its flagship, tractor-mounted, aerodynamic product), design an aerodynamic wind deflector for my convertible
   car (2005 Mazda Miata) to reduce cabin turbulence when top-down driving, fabricated pneumatic actuated soft-robotics with infinite degrees
@@ -55,7 +55,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: 3D Modeling and Simulations
     tools:
     - Fusion 360 (Autodesk, CAD/CAM)
     - Solidworks (Dassault Systèmes)
@@ -63,7 +63,8 @@ skills:
     - MATLAB (Mathworks)
     - Ansys Electronics Desktop (Maxwell, Mechanical, Icepak, HFSS, Thermal)
     - Abaqus (Dassault Systèmes)
-  - category: Prototyping / Fabrication / DfM
+    - COMSOL Multiphysics
+  - category: Prototyping / Fabrication
     tools:
     - 3-Axis CNC
     - Additive 3D Printing (FDM, SLA, Latticing)
@@ -76,23 +77,27 @@ skills:
   - category: Engineering Skills and Practices
     tools:
     - Geometric Dimensioning and Tolerancing (GD&T)
-    - ISO fits and tolerances
-  - category: PCB Design
+    - ISO 286 fits and tolerances
+    - Design for Manufacturing
+  - category: Coding Languages
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+    - Python + FEniCS
+    - MATLAB
+    - Arduino (C/C++ Variant)
+    - LaTeX
+  - category: Engineering Design Analytics / Risk Management
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - Root Cause Analysis (5 Whys, Fishbone Diagram)
+    - Design Failure Mode and Effects Analysis (DFMEA) 
+    - Customer Value Chain Analysis (CVCA)
+    - Cost Worth Analysis
+    - Morphological Analysis
+    - Pugh Selection
+    - Quality Function Deployment (QFD)
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/{xpwrjlre}
 
 
 
