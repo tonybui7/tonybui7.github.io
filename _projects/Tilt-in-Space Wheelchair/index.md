@@ -4,9 +4,9 @@ title: Low-cost, Locally Manufacturable Tilt-in-Space Wheelchair
 description: 
     Designed and validated a Tilt-in-Space wheelchair for use by Tanzanians with severe postural disabilities. This project was undertaken alongside five mechanical engineering undergraduate seniors, in two quarters (six months), with my role being the documentation focal point and validation lead! Our team worked with Kyaro Assistive Tech, a Tanzanian Non-Governmental Organization based in Arusha, Tanzania, making user-specific assistive devices accessible for East Africans. Our final wheelchair design has a final BOM cost of $50, which is drastically under our cost specification of $70 set by Kyaro Assistive Tech. Furthermore, our design exceeded all user and engineering requirements, making this wheelchair highly leveragable in the rugged Tanzanian environment. This wheelchair is inclusive of the potential use cases of 3.4 million East Africans with mobility disabilities. Our design was received highly by Stanford's Mechanical Engineering department and was subsequently published in the academic library (please feel free to check it out)!
 skills: 
-  - Structural analysis
+  - Structural analysis and Simulation
   - Rapid, Iterative Prototyping
-  - CAD (Fusion 360 teamsharing)
+  - CAD (Fusion 360)
   - Failure Mode and Effects Analysis (FMEA)
   - Design for Manufacturing and Cost Optimization
   - Engineering Communications (Presentations, Documentation)
@@ -16,6 +16,8 @@ main-image: /project2.jpg
 ---
 
 ---
+## Published Project Report
+[Developing a Low-Cost Tilting Seat for Tanzanian Wheelchairs](https://searchworks.stanford.edu/view/tj176jm1879)
 # Header 1 
 Used for the title (already generated automatically at the top)
 ## Header 2  
