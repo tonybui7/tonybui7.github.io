@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Low-cost, Locally Manufacturable Tilt-in-Space Wheelchair
+description: 
+    Designed and validated a Tilt-in-Space wheelchair for use by Tanzanians with severe postural disabilities. This project was undertaken alongside five mechanical engineering undergraduate seniors, in two quarters (six months), with my role being the documentation focal point and validation lead! Our team worked with Kyaro Assistive Tech, a Tanzanian Non-Governmental Organization based in Arusha, Tanzania, making user-specific assistive devices accessible for East Africans. Our final wheelchair design has a final BOM cost of $50, which is drastically under our cost specification of $70 set by Kyaro Assistive Tech. Furthermore, our design exceeded all user and engineering requirements, making this wheelchair highly leveragable in the rugged Tanzanian environment. This wheelchair is inclusive of the potential use cases of 3.4 million East Africans with mobility disabilities. Our design was received highly by Stanford's Mechanical Engineering department and was subsequently published in the academic library (please feel free to check it out)!
 skills: 
   - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Rapid, Iterative Prototyping
+  - CAD (Fusion 360 teamsharing)
+  - Failure Mode and Effects Analysis (FMEA)
+  - Design for Manufacturing and Cost Optimization
+  - Engineering Communications (Presentations, Documentation)
+  - Metal Forming, Welding
 
 main-image: /project2.jpg
 ---
