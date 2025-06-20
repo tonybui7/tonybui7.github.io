@@ -21,7 +21,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   ethical considerations. My engineering strategy is informed by the Stanford School of Design, which emphasizes rapid iteration, interdisciplinary
   collaboration, manufacturability/scalability, and a human-centered design.<br>
   <br>
-  Throughout my 4 years of undergraduate education{:} I had the opportunity to intern as a Mechanical Design Engineer for Tesla
+  Throughout my 4 years of undergraduate education<pre>:</pre> I had the opportunity to intern as a Mechanical Design Engineer for Tesla
   Motors' Power Electronics team, "wear many hats" as a mechanical engineering/product management intern for Trucklabs (now Conmet,
   a trucking tech startup with its flagship, tractor-mounted, aerodynamic product), design an aerodynamic wind deflector for my convertible
   car (2005 Mazda Miata) to reduce cabin turbulence when top-down driving, fabricated pneumatic actuated soft-robotics with infinite degrees
