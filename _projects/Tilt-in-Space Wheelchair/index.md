@@ -18,7 +18,11 @@ main-image: /project2.jpg
 
 ---
 ## Published Project Report
-[Developing a Low-Cost Tilting Seat for Tanzanian Wheelchairs](https://searchworks.stanford.edu/view/tj176jm1879)
+[Developing a Low-Cost Tilting Seat for Tanzanian Wheelchairs](https://searchworks.stanford.edu/view/tj176jm1879)<br>
+<br>
+## Our Final Project Presentation to a mixed Technical/General Audience of 500+ people!
+{% include youtube-video.html id="mTU5mS1wBvI" autoplay= "false"%}
+<span style="font-size: 14px">"Final Capstone Project Presentation" from https://youtu.be/mTU5mS1wBvI/</span><br>
 ---
 
 ---
@@ -45,7 +49,9 @@ Material and fabrication considerations were integral to our design. We construc
 <br><br>
 Overall, our project successfully demonstrated a rigorous value engineering process incorporating robust analysis, practical validation, and thoughtful design for manufacturability. The resulting product significantly enhances comfort, usability, and accessibility for Tanzanian wheelchair users, aligning effectively with local manufacturing capabilities.
 <br><br>
+---
 
+---
 
 
 
