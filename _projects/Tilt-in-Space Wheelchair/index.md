@@ -18,6 +18,10 @@ main-image: /project2.jpg
 ---
 ## Published Project Report
 [Developing a Low-Cost Tilting Seat for Tanzanian Wheelchairs](https://searchworks.stanford.edu/view/tj176jm1879)
+---
+
+---
+###
 # Header 1 
 Used for the title (already generated automatically at the top)
 ## Header 2  
@@ -28,8 +32,8 @@ Use this to have subsection if needed
 
 ## Embedding images 
 ### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+{% include image-gallery.html images="https://flic.kr/p/2rceJqK" height="400"%}
+<span style="font-size: 10px">"Picture of Tilt-in-Space Wheelchair Proof of Concept" from https://flic.kr/p/2rceJqK/</span>  
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
