@@ -21,9 +21,13 @@ main-image: /project2.jpg
 ---
 
 ---
-### Pictures and Videos
+## Pictures and Videos
 {% include youtube-video.html id="CFADE6lFOnU" autoplay= "false"%}
-<span style="font-size: 12px">"CAD Animation of Locking Mechanism" from https://youtu.be/CFADE6lFOnU/</span>  
+<span style="font-size: 12px">"CAD Animation of Locking Mechanism" from https://youtu.be/CFADE6lFOnU/</span><br>
+{% include youtube-video.html id="usTRCJulgL8" autoplay= "false"%}
+<span style="font-size: 12px">"CAD Animation of Tilt-in-Space Function" from https://youtu.be/CFADE6lFOnU/</span><br>
+
+
 
 # Header 1 
 Used for the title (already generated automatically at the top)
