@@ -23,6 +23,8 @@ main-image: /project2.jpg
 ---
 ### Pictures and Videos
 {% include youtube-video.html id="CFADE6lFOnU" autoplay= "false"%}
+<span style="font-size: 12px">"CAD Animation of Locking Mechanism" from https://youtu.be/CFADE6lFOnU/</span>  
+
 # Header 1 
 Used for the title (already generated automatically at the top)
 ## Header 2  
@@ -34,7 +36,7 @@ Use this to have subsection if needed
 ## Embedding images 
 ### External images
 {% include image-gallery.html images="https://flic.kr/p/2rceJqK" height="400"%}
-<span style="font-size: 10px">"Picture of Tilt-in-Space Wheelchair Proof of Concept" from https://flic.kr/p/2rceJqK/</span>  
+<span style="font-size: 12px">"Picture of Tilt-in-Space Wheelchair Proof of Concept" from https://flic.kr/p/2rceJqK/</span>  
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
