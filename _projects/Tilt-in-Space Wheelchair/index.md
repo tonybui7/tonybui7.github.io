@@ -21,8 +21,8 @@ main-image: /project2.jpg
 [Developing a Low-Cost Tilting Seat for Tanzanian Wheelchairs](https://searchworks.stanford.edu/view/tj176jm1879)<br>
 <br>
 ## Our Final Project Presentation to a mixed Technical/General Audience of 300+ people!
-{% include youtube-video.html id="mTU5mS1wBvI" autoplay= "false"%}
-<span style="font-size: 14px">"Tilt-in-Space Wheelchair, Final Capstone Project Presentation" from https://youtu.be/mTU5mS1wBvI/</span><br>
+{% include youtube-video.html id="JAytmOaklgQ" autoplay= "false"%}
+<span style="font-size: 14px">"Tilt-in-Space Wheelchair, Final Capstone Project Presentation" from https://youtu.be/JAytmOaklgQ/</span><br>
 ---
 
 ---
