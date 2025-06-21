@@ -31,6 +31,21 @@ main-image: /project2.jpg
 <span style="font-size: 12px">"Hero Shot of Tilt-in-Space Prototype"</span><br>
 {% include image-gallery.html images="weldedchair.jpg" width="351" height="468" %}
 <span style="font-size: 12px">"Welded Chair Frame"</span><br>
+---
+
+---
+## About This Project!
+For my senior capstone project in Mechanical Engineering at Stanford University, our team developed an affordable and locally manufacturable tilt-in-space wheelchair specifically designed for users in Tanzania. Working in collaboration with Kyaro Assistive Technology, a Tanzanian NGO, we aimed to alleviate issues related to prolonged sitting discomfort and pressure sores experienced by wheelchair users, while addressing the physical strain on caregivers during repositioning tasks.
+<br><br>
+Our wheelchair consists of two main components: an external frame and a tilting seat assembly. During our project specification phase, we conducted market research, user surveys, and literature reviews to establish a set of prioritized user/engineering requirements against which our designs were constantly tested. The seat is designed to pivot around ball bearings strategically placed near the user's center of mass, significantly reducing the caregiver's input force required to tilt the chair. We conducted a statistical analysis, using national aviation datasets, to determine three centers of mass for which we parametrically pre-set our wheelchair designs to be fabricated for. A carefully engineered latch mechanism, operated by recycled bicycle brake handles and cables, securely locks the seat at predefined angles (0°, 15°, 30°, and 45°), providing precise control over user posture and comfort.
+<br><br>
+In the engineering phase, we utilized finite element analysis (FEA) simulations to ensure the structural integrity of critical components like pivot points under a 185 lb static load, resulting in a high safety factor of 8.3. Extensive Design Failure Mode and Effects Analysis (DFMEA) was conducted, identifying potential high-risk failure points such as joint failures in the backrest and weld failures in the external frame. To address these risks, we conducted rigorous physical testing, including cyclic load tests (50 cycles at 185 lbs) and validation of the locking mechanism's reliability across multiple trials. The input force required to actuate the tilt mechanism was experimentally validated to remain below our target of 85 N, with an actual measured maximum of 82.3 N.
+<br><br>
+Material and fabrication considerations were integral to our design. We constructed the prototype using aluminum extrusion and JB Weld for initial validation, later transitioning to locally available steel pipes and traditional welding techniques (Oxy-Acetylene and MIG welding) in Tanzania for final production. This approach ensured both affordability and manufacturability, confirmed by our prototype’s total material cost of $47.33, well below our initial $70 budget constraint.
+<br><br>
+Overall, our project successfully demonstrated a rigorous value engineering process incorporating robust analysis, practical validation, and thoughtful design for manufacturability. The resulting product significantly enhances comfort, usability, and accessibility for Tanzanian wheelchair users, aligning effectively with local manufacturing capabilities.
+<br><br>
+
 
 
 
