@@ -27,7 +27,12 @@ main-image: /project2.jpg
 <span style="font-size: 12px">"CAD Animation of Locking Mechanism" from https://youtu.be/CFADE6lFOnU/</span><br>
 {% include youtube-video.html id="usTRCJulgL8" autoplay= "false"%}
 <span style="font-size: 12px">"CAD Animation of Tilt-in-Space Function" from https://youtu.be/CFADE6lFOnU/</span><br>
-{% include image-gallery.html images="chair.jpg" width="351" height="466" %} 
+{% include image-gallery.html images="chair.jpg" width="351" height="466" %}
+<span style="font-size: 12px">"Hero Shot of Tilt-in-Space Prototype"</span><br>
+{% include image-gallery.html images="weldedchair.jpg" width="351" height="468" %}
+<span style="font-size: 12px">"Welded Chair Frame"</span><br>
+
+
 
 
 
