@@ -30,7 +30,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   <br>
   This is just the beginning! I aim to leverage my education and experience as a stepping-stone to high-impact engineering.<br>
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/avatar.jpeg{: width="250" }
 
 
 # Link your resume
